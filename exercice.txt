@@ -1,0 +1,1 @@
+Desarrolla una herramienta que genere contraseñas seguras. Los usuarios podrían especificar la longitud y los criterios (números, letras mayúsculas y minúsculas, caracteres especiales) para generar contraseñas personalizadas.
