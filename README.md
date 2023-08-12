@@ -1,2 +1,6 @@
-# proyecto_contrasenas
-Este es un proyecto de estudio para afianzar conocimientos de java y de Git
+## Descripción
+La finalidad de este proyecto de estudio para afianzar conocimientos de java y de Git
+
+## Autores
+Alejandro Villegas Ramirez\
+Luis Fernando Bastidas\
